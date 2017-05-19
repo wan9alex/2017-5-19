@@ -1,2 +1,14 @@
-# 2017-5-19
-test and play
+# A Blank PhoneGap App
+
+## Usage
+
+### PhoneGap CLI
+
+    $ phonegap create my-app --template blank
+
+### Desktop
+
+In your browser, open the file:
+
+    /www/index.html
+
